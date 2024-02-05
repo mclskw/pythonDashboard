@@ -27,8 +27,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
-RUN_SERVER_PORT = 10000
-
 # Application definition
 
 INSTALLED_APPS = [
