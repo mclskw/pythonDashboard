@@ -7,3 +7,4 @@ Django
 django-plotly-dash
 plotly
 pandas
+gunicorn
